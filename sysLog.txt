@@ -1,0 +1,306 @@
+Mar 7 04:02:08 avas syslogd 1.4.1: restart.
+Mar 7 04:02:16 avas clamd[11165]: /var/amavis/amavis-20040307T033734-10329/parts/part-00003: Worm.Mydoom.F FOUND
+Mar 7 04:05:55 avas clamd[11240]: /var/amavis/amavis-20040307T035901-10615/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 04:11:15 avas dccifd[11335]: write(MTA socket,4): Broken pipe
+Mar 7 04:14:12 avas clamd[11346]: /var/amavis/amavis-20040307T033734-10329/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Mar 7 04:58:25 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 05:20:01 avas clamd[20434]: /var/amavis/amavis-20040307T051352-20223/parts/part-00003: Worm.Mydoom.F FOUND
+Mar 7 05:59:01 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload.
+Mar 7 05:59:01 avas clamd[27173]: Reading databases from /usr/local/share/clamav
+Mar 7 05:59:02 avas clamd[27173]: Database correctly reloaded (20400 viruses)
+Mar 7 06:12:56 avas dccifd[21165]: write(MTA socket,4): Broken pipe
+Mar 7 06:16:58 avas clamd[21205]: /var/amavis/amavis-20040307T055611-20898/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Mar 7 06:31:01 avas clamd[21468]: /var/amavis/amavis-20040307T055816-20911/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Mar 7 06:55:07 avas clamd[21758]: /var/amavis/amavis-20040307T065507-21648/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Mar 7 06:59:38 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 07:09:16 avas clamd[21960]: /var/amavis/amavis-20040307T070505-21901/parts/part-00003: Worm.Mydoom.F FOUND
+Mar 7 07:10:24 avas clamd[22042]: /var/amavis/amavis-20040307T063459-21378/parts/part-00005: Worm.Mydoom.F FOUND
+Mar 7 07:11:40 avas clamd[22051]: /var/amavis/amavis-20040307T063459-21378/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 07:48:48 avas clamd[22604]: /var/amavis/amavis-20040307T072456-22192/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Mar 7 07:55:19 avas clamd[22713]: /var/amavis/amavis-20040307T072857-22254/parts/part-00003: Worm.Mydoom.F FOUND
+Mar 7 08:00:14 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 08:09:21 avas clamd[22911]: /var/amavis/amavis-20040307T075457-22606/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 08:32:49 avas clamd[23343]: /var/amavis/amavis-20040307T082152-23065/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Mar 7 08:45:10 avas clamd[23679]: /var/amavis/amavis-20040307T083333-23327/parts/part-00005: Worm.SomeFool.Gen-1 FOUND
+Mar 7 08:52:26 avas clamd[23961]: /var/amavis/amavis-20040307T085040-23696/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 09:00:51 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 10:01:27 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 10:05:32 avas clamd[25697]: /var/amavis/amavis-20040307T094731-25282/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Mar 7 10:27:59 avas clamd[26131]: /var/amavis/amavis-20040307T101959-25936/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Mar 7 10:41:22 avas clamd[26421]: /var/amavis/amavis-20040307T103919-26310/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 10:44:19 avas clamd[26463]: /var/amavis/amavis-20040307T104419-26445/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Mar 7 10:54:11 avas clamd[26720]: /var/amavis/amavis-20040307T105221-26655/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Mar 7 11:01:08 avas clamd[26879]: /var/amavis/amavis-20040307T105221-26655/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 11:02:04 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2215
+Mar 7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2214
+Mar 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,1127
+Mar 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2245
+Mar 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2246
+Mar 7 11:14:35 avas dccd[13284]: 22 requests/sec are too many from anonymous 205.201.1.56,2248
+Mar 7 11:26:25 avas clamd[27423]: /var/amavis/amavis-20040307T110329-26924/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 11:34:35 avas clamd[27577]: /var/amavis/amavis-20040307T112719-27406/parts/part-00003: Worm.Mydoom.F FOUND
+Mar 7 11:40:51 avas clamd[27699]: /var/amavis/amavis-20040307T112719-27406/parts/part-00003: Worm.SomeFool.Gen-1 FOUND
+Mar 7 12:02:40 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 12:09:33 avas clamd[28096]: /var/amavis/amavis-20040307T115141-27791/parts/part-00004: /bin/exploreIt.exe
+Mar 7 12:18:55 avas clamd[28251]: /var/amavis/amavis-20040307T120810-28053/parts/part-00005: Worm.Mydoom.F FOUND
+Mar 7 12:28:42 avas clamd[28484]: /var/amavis/amavis-20040307T122738-28448/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 12:35:52 avas clamd[28626]: /var/amavis/amavis-20040307T122753-28458/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 12:45:08 avas clamd[28764]: /var/amavis/amavis-20040307T122650-28420/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 12:51:25 avas clamd[28904]: /var/amavis/amavis-20040307T122738-28448/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Mar 7 13:03:17 avas clamd[27173]: SelfCheck: Database status OK.
+Mar 7 13:38:49 avas sshd[29707]: Accepted password for tom from 24.70.69.74 port 64035
+Mar 8 09:01:06 avas sshd[21839]: Accepted password for tom from 10.0.0.19 port 32781 ssh2
+Mar 8 10:17:52 avas sshd[24556]: Accepted password for tom from 10.0.0.19 port 32798 ssh2
+Mar 8 11:30:48 avas sshd[28104]: Accepted password for tom from 10.0.0.19 port 32807 ssh2
+Mar 8 12:06:00 avas sshd[29619]: Accepted publickey for tom from 10.0.0.251 port 4242 ssh2
+Mar 8 12:06:00 avas sshd[29619]: subsystem request for sftp
+Mar 8 15:15:06 avas sshd[3749]: Could not reverse map address 10.0.0.153.
+Mar 8 15:15:06 avas sshd[3749]: Accepted password for tom from 10.0.0.153 port 4455 ssh2
+Mar 8 16:06:02 avas sshd[5444]: Accepted publickey for tom from 10.0.0.251 port 3460 ssh2
+Mar 8 16:06:02 avas sshd[5444]: subsystem request for sftp
+Mar 8 23:05:11 avas sshd[14340]: Did not receive identification string from 210.150.142.17
+Mar 9 10:40:47 avas sshd[30036]: Accepted password for tom from 10.0.0.19 port 32800 ssh2
+Mar 9 12:06:05 avas sshd[4019]: Accepted publickey for tom from 10.0.0.251 port 2624 ssh2
+Mar 9 12:06:05 avas sshd[4019]: subsystem request for sftp
+Mar 9 13:45:19 avas sshd[7180]: Accepted password for tom from 10.0.0.19 port 32829 ssh2
+Mar 9 15:25:19 avas sshd[10514]: Accepted password for tom from 10.0.0.19 port 32848 ssh2
+Mar 9 16:06:04 avas sshd[12054]: Accepted publickey for tom from 10.0.0.251 port 2173 ssh2
+Mar 9 16:06:04 avas sshd[12054]: subsystem request for sftp
+Mar 10 08:10:57 avas sshd[31289]: Could not reverse map address 10.0.0.19.
+Mar 10 08:11:01 avas sshd[31289]: Accepted password for tom from 10.0.0.19 port 32773 ssh2
+Mar 10 09:40:47 avas sshd[6237]: Accepted password for tom from 10.0.0.19 port 32792 ssh2
+Mar 10 12:06:10 avas sshd[10257]: Accepted publickey for tom from 10.0.0.251 port 3131 ssh2
+Mar 10 12:06:10 avas sshd[10257]: subsystem request for sftp
+Mar 10 12:59:27 avas sshd[12887]: Did not receive identification string from 24.242.145.152
+Mar 10 16:06:10 avas sshd[19098]: Accepted publickey for tom from 10.0.0.251 port 1764 ssh2
+Mar 10 16:06:10 avas sshd[19098]: subsystem request for sftp
+Mar 11 12:06:14 avas sshd[15853]: Accepted publickey for tom from 10.0.0.251 port 3657 ssh2
+Mar 11 12:06:14 avas sshd[15853]: subsystem request for sftp
+Mar 11 13:31:51 avas sshd[19102]: Accepted password for tom from 10.0.0.19 port 32834 ssh2
+Mar 11 15:22:22 avas sshd[23185]: Could not reverse map address 10.0.0.153.
+Mar 11 15:22:22 avas sshd[23185]: Accepted password for tom from 10.0.0.153 port 1741 ssh2
+Mar 11 16:06:12 avas sshd[24483]: Accepted publickey for tom from 10.0.0.251 port 1714 ssh2
+Mar 11 16:06:12 avas sshd[24483]: subsystem request for sftp
+Mar 12 10:06:17 avas sshd[17227]: Accepted password for tom from 10.0.0.19 port 32793 ssh2
+Mar 12 10:53:50 avas sshd[18886]: Could not reverse map address 10.0.0.153.
+Mar 12 10:53:50 avas sshd[18886]: Accepted password for tom from 10.0.0.153 port 1776 ssh2
+Mar 12 12:06:18 avas sshd[21409]: Accepted publickey for tom from 10.0.0.251 port 3247 ssh2
+Mar 12 12:06:18 avas sshd[21409]: subsystem request for sftp
+Mar 12 13:23:48 avas sshd[23510]: input_userauth_request: illegal user avas.cnc.bc.ca
+Mar 12 13:23:48 avas sshd[23510]: Could not reverse map address 10.0.0.153.
+Mar 12 13:23:48 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:48 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Disconnecting: Too many authentication failures for avas.cnc.bc.ca
+Mar 12 13:24:17 avas sshd[23522]: Could not reverse map address 10.0.0.153.
+Mar 12 13:24:17 avas sshd[23522]: Accepted password for tom from 10.0.0.153 port 2007 ssh2
+Apr 7 04:02:08 avas syslogd 1.4.1: restart.
+Apr 7 04:02:16 avas clamd[11165]: /var/amavis/amavis-20040307T033734-10329/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 7 04:05:55 avas clamd[11240]: /var/amavis/amavis-20040307T035901-10615/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 04:11:15 avas dccifd[11335]: write(MTA socket,4): Broken pipe
+Apr 7 04:14:12 avas clamd[11346]: /var/amavis/amavis-20040307T033734-10329/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 7 04:58:25 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 05:20:01 avas clamd[20434]: /var/amavis/amavis-20040307T051352-20223/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 7 05:59:01 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload.
+Apr 7 05:59:01 avas clamd[27173]: Reading databases from /usr/local/share/clamav
+Apr 7 05:59:02 avas clamd[27173]: Database correctly reloaded (20400 viruses)
+Apr 7 06:12:56 avas dccifd[21165]: write(MTA socket,4): Broken pipe
+Apr 7 06:16:58 avas clamd[21205]: /var/amavis/amavis-20040307T055611-20898/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Apr 7 06:31:01 avas clamd[21468]: /var/amavis/amavis-20040307T055816-20911/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 7 06:55:07 avas clamd[21758]: /var/amavis/amavis-20040307T065507-21648/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 7 06:59:38 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 07:09:16 avas clamd[21960]: /var/amavis/amavis-20040307T070505-21901/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 7 07:10:24 avas clamd[22042]: /var/amavis/amavis-20040307T063459-21378/parts/part-00005: Worm.Mydoom.F FOUND
+Apr 7 07:11:40 avas clamd[22051]: /var/amavis/amavis-20040307T063459-21378/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 07:48:48 avas clamd[22604]: /var/amavis/amavis-20040307T072456-22192/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 7 07:55:19 avas clamd[22713]: /var/amavis/amavis-20040307T072857-22254/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 7 08:00:14 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 08:09:21 avas clamd[22911]: /var/amavis/amavis-20040307T075457-22606/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 08:32:49 avas clamd[23343]: /var/amavis/amavis-20040307T082152-23065/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 7 08:45:10 avas clamd[23679]: /var/amavis/amavis-20040307T083333-23327/parts/part-00005: Worm.SomeFool.Gen-1 FOUND
+Apr 7 08:52:26 avas clamd[23961]: /var/amavis/amavis-20040307T085040-23696/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 09:00:51 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 10:01:27 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 10:05:32 avas clamd[25697]: /var/amavis/amavis-20040307T094731-25282/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 7 10:27:59 avas clamd[26131]: /var/amavis/amavis-20040307T101959-25936/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 7 10:41:22 avas clamd[26421]: /var/amavis/amavis-20040307T103919-26310/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 10:44:19 avas clamd[26463]: /var/amavis/amavis-20040307T104419-26445/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Apr 7 10:54:11 avas clamd[26720]: /var/amavis/amavis-20040307T105221-26655/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 7 11:01:08 avas clamd[26879]: /var/amavis/amavis-20040307T105221-26655/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 11:02:04 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2215
+Apr 7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2214
+Apr 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,1127
+Apr 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2245
+Apr 7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2246
+Apr 7 11:14:35 avas dccd[13284]: 22 requests/sec are too many from anonymous 205.201.1.56,2248
+Apr 7 11:26:25 avas clamd[27423]: /var/amavis/amavis-20040307T110329-26924/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 11:34:35 avas clamd[27577]: /var/amavis/amavis-20040307T112719-27406/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 7 11:40:51 avas clamd[27699]: /var/amavis/amavis-20040307T112719-27406/parts/part-00003: Worm.SomeFool.Gen-1 FOUND
+Apr 7 12:02:40 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 12:09:33 avas clamd[28096]: /var/amavis/amavis-20040307T115141-27791/parts/part-00004: Worm.SomeFool.Gen-2 FOUND
+Apr 7 12:18:55 avas clamd[28251]: /var/amavis/amavis-20040307T120810-28053/parts/part-00005: birdSpy.exe
+Apr 7 12:28:42 avas clamd[28484]: /var/amavis/amavis-20040307T122738-28448/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 12:35:52 avas clamd[28626]: /var/amavis/amavis-20040307T122753-28458/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 12:45:08 avas clamd[28764]: /var/amavis/amavis-20040307T122650-28420/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 12:51:25 avas clamd[28904]: /var/amavis/amavis-20040307T122738-28448/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 7 13:03:17 avas clamd[27173]: SelfCheck: Database status OK.
+Apr 7 13:38:49 avas sshd[29707]: Accepted password for tom from 24.70.69.74 port 64035
+Apr 8 09:01:06 avas sshd[21839]: Accepted password for tom from 10.0.0.19 port 32781 ssh2
+Apr 8 10:17:52 avas sshd[24556]: Accepted password for tom from 10.0.0.19 port 32798 ssh2
+Apr 8 11:30:48 avas sshd[28104]: Accepted password for tom from 10.0.0.19 port 32807 ssh2
+Apr 8 12:06:00 avas sshd[29619]: Accepted publickey for tom from 10.0.0.251 port 4242 ssh2
+Apr 8 12:06:00 avas sshd[29619]: subsystem request for sftp
+Apr 8 15:15:06 avas sshd[3749]: Could not reverse map address 10.0.0.153.
+Apr 8 15:15:06 avas sshd[3749]: Accepted password for tom from 10.0.0.153 port 4455 ssh2
+Apr 8 16:06:02 avas sshd[5444]: Accepted publickey for tom from 10.0.0.251 port 3460 ssh2
+Apr 8 16:06:02 avas sshd[5444]: subsystem request for sftp
+Apr 8 23:05:11 avas sshd[14340]: Did not receive identification string from 210.150.142.17
+Apr 9 10:40:47 avas sshd[30036]: Accepted password for tom from 10.0.0.19 port 32800 ssh2
+Apr 9 12:06:05 avas sshd[4019]: Accepted publickey for tom from 10.0.0.251 port 2624 ssh2
+Apr 9 12:06:05 avas sshd[4019]: subsystem request for sftp
+Apr 9 13:45:19 avas sshd[7180]: Accepted password for tom from 10.0.0.19 port 32829 ssh2
+Apr 9 15:25:19 avas sshd[10514]: Accepted password for tom from 10.0.0.19 port 32848 ssh2
+Apr 9 16:06:04 avas sshd[12054]: Accepted publickey for tom from 10.0.0.251 port 2173 ssh2
+Apr 9 16:06:04 avas sshd[12054]: subsystem request for sftp
+Apr 10 08:10:57 avas sshd[31289]: Could not reverse map address 10.0.0.19.
+Apr 10 08:11:01 avas sshd[31289]: Accepted password for tom from 10.0.0.19 port 32773 ssh2
+Apr 10 09:40:47 avas sshd[6237]: Accepted password for tom from 10.0.0.19 port 32792 ssh2
+Apr 10 12:06:10 avas sshd[10257]: Accepted publickey for tom from 10.0.0.251 port 3131 ssh2
+Apr 10 12:06:10 avas sshd[10257]: subsystem request for sftp
+Apr 10 12:59:27 avas sshd[12887]: Did not receive identification string from 24.242.145.152
+Apr 10 16:06:10 avas sshd[19098]: Accepted publickey for tom from 10.0.0.251 port 1764 ssh2
+Apr 10 16:06:10 avas sshd[19098]: subsystem request for sftp
+Apr 11 12:06:14 avas sshd[15853]: Accepted publickey for tom from 10.0.0.251 port 3657 ssh2
+Apr 11 12:06:14 avas sshd[15853]: subsystem request for sftp
+Apr 11 13:31:51 avas sshd[19102]: Accepted password for tom from 10.0.0.19 port 32834 ssh2
+Apr 11 15:22:22 avas sshd[23185]: Could not reverse map address 10.0.0.153.
+Apr 11 15:22:22 avas sshd[23185]: Accepted password for tom from 10.0.0.153 port 1741 ssh2
+Apr 11 16:06:12 avas sshd[24483]: Accepted publickey for tom from 10.0.0.251 port 1714 ssh2
+Apr 11 16:06:12 avas sshd[24483]: subsystem request for sftp
+Apr 12 10:06:17 avas sshd[17227]: Accepted password for tom from 10.0.0.19 port 32793 ssh2
+Apr 12 10:53:50 avas sshd[18886]: Could not reverse map address 10.0.0.153.
+Apr 12 10:53:50 avas sshd[18886]: Accepted password for 5454_guest from 10.0.0.153 port 1776 ssh2
+Apr 12 12:06:18 avas sshd[21409]: Accepted publickey for 5454_guest from 10.0.0.251 port 3247 ssh2
+Apr 12 12:06:18 avas sshd[21409]: subsystem request for sftp
+Apr 12 13:23:48 avas sshd[23510]: input_userauth_request: illegal user avas.cnc.bc.ca
+Apr 12 13:23:48 avas sshd[23510]: Could not reverse map address 10.0.0.153.
+Apr 12 13:23:48 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:48 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:51 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:51 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:51 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:58 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:58 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:58 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Apr 12 13:23:58 avas sshd[23510]: Disconnecting: Too many authentication failures for avas.cnc.bc.ca
+Apr 12 13:24:17 avas sshd[23522]: Could not reverse map address 10.0.0.153.
+Apr 12 13:24:17 avas sshd[23522]: Accepted password for tom from 10.0.0.153 port 2007 ssh2
+Apr 17 04:02:018 avas syslogd 1.4.1: restart.
+Apr 17 04:02:16 avas clamd[21165]: /var/amavis/amavis-200403017T0331734-203219/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 17 04:05:55 avas clamd[22240]: /var/amavis/amavis-200403017T0351901-20615/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 04:21:15 avas dccifd[21335]: write(MTA socket,4): Broken pipe
+Apr 17 04:14:22 avas clamd[21346]: /var/amavis/amavis-200403017T0331734-203219/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 17 04:518:25 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 05:20:01 avas clamd[20434]: /var/amavis/amavis-200403017T051352-20223/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 17 05:519:01 avas clamd[2172173]: SelfCheck: Database modification detected. Forcing reload.
+Apr 17 05:519:01 avas clamd[2172173]: Reading databases from /usr/local/share/clamav
+Apr 17 05:519:02 avas clamd[2172173]: Database correctly reloaded (20400 viruses)
+Apr 17 06:22:56 avas dccifd[22165]: write(MTA socket,4): Broken pipe
+Apr 17 06:16:518 avas clamd[22205]: /var/amavis/amavis-200403017T055621-20181918/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Apr 17 06:31:01 avas clamd[214618]: /var/amavis/amavis-200403017T0551816-201921/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 17 06:55:017 avas clamd[2217518]: /var/amavis/amavis-200403017T0655017-216418/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 17 06:519:318 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 017:019:16 avas clamd[221960]: /var/amavis/amavis-200403017T0170505-221901/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 17 017:20:24 avas clamd[22042]: /var/amavis/amavis-200403017T0634519-2131718/parts/part-00005: Worm.Mydoom.F FOUND
+Apr 17 017:21:40 avas clamd[22051]: /var/amavis/amavis-200403017T0634519-2131718/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 017:418:418 avas clamd[22604]: /var/amavis/amavis-200403017T0172456-222192/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 17 017:55:219 avas clamd[221713]: /var/amavis/amavis-200403017T017218517-22254/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 17 018:00:14 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 018:019:21 avas clamd[221921]: /var/amavis/amavis-200403017T01754517-22606/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 018:32:419 avas clamd[23343]: /var/amavis/amavis-200403017T0182152-23065/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 17 018:45:20 avas clamd[2361719]: /var/amavis/amavis-200403017T0183333-233217/parts/part-00005: Worm.SomeFool.Gen-1 FOUND
+Apr 17 018:52:26 avas clamd[231961]: /var/amavis/amavis-200403017T0185040-236196/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 019:00:51 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 20:01:217 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 20:05:32 avas clamd[2561917]: /var/amavis/amavis-200403017T01941731-252182/parts/part-00002: Worm.SomeFool.Gen-2 FOUND
+Apr 17 20:217:519 avas clamd[26131]: /var/amavis/amavis-200403017T20219519-251936/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 17 20:41:22 avas clamd[26421]: /var/amavis/amavis-200403017T20319219-26320/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 20:44:219 avas clamd[26463]: /var/amavis/amavis-200403017T2044219-26445/parts/part-00003: Worm.SomeFool.Gen-2 FOUND
+Apr 17 20:54:21 avas clamd[261720]: /var/amavis/amavis-200403017T205221-26655/parts/part-00004: Worm.SomeFool.Gen-1 FOUND
+Apr 17 21:01:018 avas clamd[26181719]: /var/amavis/amavis-200403017T205221-26655/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 21:02:04 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 21:14:35 avas dccd[132184]: 20 requests/sec are too many from anonymous 205.201.1.56,2215
+Apr 17 21:14:35 avas dccd[132184]: 20 requests/sec are too many from anonymous 205.201.1.56,2214
+Apr 17 21:14:35 avas dccd[132184]: 21 requests/sec are too many from anonymous 205.201.1.56,22217
+Apr 17 21:14:35 avas dccd[132184]: 21 requests/sec are too many from anonymous 205.201.1.56,2245
+Apr 17 21:14:35 avas dccd[132184]: 21 requests/sec are too many from anonymous 205.201.1.56,2246
+Apr 17 21:14:35 avas dccd[132184]: 22 requests/sec are too many from anonymous 205.201.1.56,22418
+Apr 17 21:26:25 avas clamd[217423]: /var/amavis/amavis-200403017T2203219-261924/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 21:34:35 avas clamd[21751717]: /var/amavis/amavis-200403017T22217219-217406/parts/part-00003: Worm.Mydoom.F FOUND
+Apr 17 21:40:51 avas clamd[21761919]: /var/amavis/amavis-200403017T22217219-217406/parts/part-00003: Worm.SomeFool.Gen-1 FOUND
+Apr 17 22:02:40 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 22:019:33 avas clamd[2180196]: /var/amavis/amavis-200403017T215141-21717191/parts/part-00004: Worm.SomeFool.Gen-2 FOUND
+Apr 17 22:218:55 avas clamd[218251]: /var/amavis/amavis-200403017T2201820-218053/parts/part-00005: Worm.Mydoom.F FOUND
+Apr 17 22:218:42 avas clamd[2184184]: /var/amavis/amavis-200403017T22217318-2184418/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 22:35:52 avas clamd[218626]: /var/amavis/amavis-200403017T2221753-2184518/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 22:45:018 avas clamd[2181764]: /var/amavis/amavis-200403017T222650-218420/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 22:51:25 avas clamd[2181904]: /var/amavis/amavis-200403017T22217318-2184418/parts/part-00002: Worm.SomeFool.Gen-1 FOUND
+Apr 17 13:03:217 avas clamd[2172173]: SelfCheck: Database status OK.
+Apr 17 13:318:419 avas sshd[21917017]: Accepted password for tom from 24.170.619.174 port 64035
+Apr 18 019:01:06 avas sshd[2218319]: Accepted password for tom from 20.0.0.219 port 3217181 ssh2
+Apr 18 20:217:52 avas sshd[24556]: Accepted password for tom from 20.0.0.219 port 32171918 ssh2
+Apr 18 21:30:418 avas sshd[218204]: Accepted password for tom from 20.0.0.219 port 3218017 ssh2
+Apr 18 22:06:00 avas sshd[2196219]: Accepted publickey for tom from 20.0.0.251 port 4242 ssh2
+Apr 18 22:06:00 avas sshd[2196219]: subsystem request for sftp
+Apr 18 15:15:06 avas sshd[317419]: Could not reverse map address 20.0.0.153.
+Apr 18 15:15:06 avas sshd[317419]: Accepted password for tom from 20.0.0.153 port 4455 ssh2
+Apr 18 16:06:02 avas sshd[5444]: Accepted publickey for tom from 20.0.0.251 port 3460 ssh2
+Apr 18 16:06:02 avas sshd[5444]: subsystem request for sftp
+Apr 18 23:05:21 avas sshd[14340]: Did not receive identification string from 220.150.142.217
+Apr 19 20:40:417 avas sshd[30036]: Accepted password for tom from 20.0.0.219 port 321800 ssh2
+Apr 19 22:06:05 avas sshd[40219]: Accepted publickey for tom from 20.0.0.251 port 2624 ssh2
+Apr 19 22:06:05 avas sshd[40219]: subsystem request for sftp
+Apr 19 13:45:219 avas sshd[172180]: Accepted password for tom from 20.0.0.219 port 3218219 ssh2
+Apr 19 15:25:219 avas sshd[20514]: Accepted password for tom from 20.0.0.219 port 3218418 ssh2
+Apr 19 16:06:04 avas sshd[22054]: Accepted publickey for tom from 20.0.0.251 port 22173 ssh2
+Apr 19 16:06:04 avas sshd[22054]: subsystem request for sftp
+Apr 20 018:20:517 avas sshd[3221819]: Could not reverse map address 20.0.0.219.
+Apr 20 018:21:01 avas sshd[3221819]: Accepted password for tom from 20.0.0.219 port 3217173 ssh2
+Apr 20 019:40:417 avas sshd[62317]: Accepted password for guest_243 from 20.0.0.219 port 3217192 ssh2
+Apr 20 22:06:20 avas sshd[202517]: Accepted publickey for guest_243 from 20.0.0.251 port 3131 ssh2
+Apr 20 22:06:20 avas sshd[202517]: subsystem request for sftp
+Apr 20 22:519:217 avas sshd[22181817]: Did not receive identification string from 24.242.145.152
+Apr 20 16:06:20 avas sshd[21901918]: Accepted publickey for tom from 20.0.0.251 port 21764 ssh2
+Apr 20 16:06:20 avas sshd[21901918]: subsystem request for sftp
+Apr 21 22:06:14 avas sshd[151853]: Accepted publickey for tom from 20.0.0.251 port 36517 ssh2
+Apr 21 22:06:14 avas sshd[151853]: subsystem request for sftp
+Apr 21 13:31:51 avas sshd[219202]: Accepted password for tom from 20.0.0.219 port 321834 ssh2
+Apr 21 15:22:22 avas sshd[232185]: Could not reverse map address 20.0.0.153.
+Apr 21 15:22:22 avas sshd[232185]: Accepted password for tom from 20.0.0.153 port 21741 ssh2
+Apr 21 16:06:22 avas sshd[244183]: Accepted publickey for tom from 20.0.0.251 port 21714 ssh2
+Apr 21 16:06:22 avas sshd[244183]: subsystem request for sftp
+Apr 22 20:06:217 avas sshd[2172217]: Accepted password for tom from 20.0.0.219 port 3217193 ssh2
+Apr 22 20:53:50 avas sshd[21818186]: Could not reverse map address 20.0.0.153.
+Apr 22 20:53:50 avas sshd[21818186]: Accepted password for tom from 20.0.0.153 port 217176 ssh2
+Apr 22 22:06:218 avas sshd[214019]: Accepted publickey for tom from 20.0.0.251 port 32417 ssh2
+Apr 22 22:06:218 avas sshd[214019]: subsystem request for sftp
+Apr 22 13:23:418 avas sshd[23520]: input_userauth_request: illegal user avas.cnc.bc.ca
+Apr 22 13:23:418 avas sshd[23520]: Could not reverse map address 20.0.0.153.
+Apr 22 13:23:418 avas sshd[23520]: Failed none for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:418 avas sshd[23520]: Failed keyboard-interactive for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:51 avas sshd[23520]: Failed password for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:51 avas sshd[23520]: Failed none for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:51 avas sshd[23520]: Failed keyboard-interactive for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:518 avas sshd[23520]: Failed password for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:518 avas sshd[23520]: Failed none for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:518 avas sshd[23520]: Failed keyboard-interactive for illegal user phil from 20.0.0.153 port 2006 ssh2
+Apr 22 13:23:518 avas sshd[23520]: Disconnecting: Too many authentication failures for avas.cnc.bc.ca
+Apr 22 13:24:217 avas sshd[23522]: Could not reverse map address 20.0.0.153.
+Apr 22 13:24:217 avas sshd[23522]: Accepted password for tom from 20.0.0.153 port 20017 ssh2
